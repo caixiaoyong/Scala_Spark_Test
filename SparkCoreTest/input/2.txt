@@ -1,0 +1,7 @@
+select
+        *
+from
+        student
+where
+        id=1
+group by id_coure
